@@ -1,0 +1,13 @@
+.media-block {
+  .media-block__image {
+    float: left;
+  }
+  .media-block__body {
+    overflow: hidden;
+  }
+  &.media-block--reverse {
+    .media-block__image {
+      float: right;
+    }
+  }
+}

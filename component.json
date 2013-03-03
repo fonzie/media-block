@@ -1,0 +1,16 @@
+{
+  "name": "media-block",
+  "repo": "fonzie/media-block",
+  "description": "Classes for creating media blocks",
+  "author": "Anthony Short",
+  "main": "media-block.scss",
+  "version": "0.0.1",
+  "dependencies": {},
+  "remotes": [
+    "http://fonzie.herokuapp.com/packages"
+  ],
+  "files": [
+    "media-block.scss"
+  ],
+  "license": "MIT"
+}
