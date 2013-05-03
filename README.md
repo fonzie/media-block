@@ -7,7 +7,7 @@ a new block formatting context on the content.
 ## Installation
 
 ```
-fonzie install fonzie-media-block
+bower install fonzie-media-block
 ```
 
 ## Usage
