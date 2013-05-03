@@ -7,19 +7,19 @@ a new block formatting context on the content.
 ## Installation
 
 ```
-fonzie install media-block
+fonzie install fonzie-media-block
 ```
 
 ## Usage
 
 ```scss
-@import "media-block";
+@include fz-MediaBlock;
 ```
 
 ```html
-<div class="media-block">
-  <img class="media-block__image">
-  <div class="media-block__body">
+<div class="fz-mediaBlock fz-mediaBlock--reverse">
+  <img class="fz-mediaBlock-image">
+  <div class="fz-mediaBlock-body">
     Some Text
   </div>
 </div>

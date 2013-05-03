@@ -1,0 +1,8 @@
+{
+  "name": "fonzie-media-block",
+  "description": "Classes for creating media blocks",
+  "author": "Anthony Short",
+  "main": "index.scss",
+  "version": "0.1.0",
+  "license": "MIT"
+}

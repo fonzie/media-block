@@ -1,13 +1,15 @@
-.media-block {
-  .media-block__image {
-    float: left;
-  }
-  .media-block__body {
-    overflow: hidden;
-  }
-  &.media-block--reverse {
-    .media-block__image {
-      float: right;
+@mixin fz-MediaBlock {
+  .fz-mediaBlock {
+    .fz-mediaBlock-image {
+      float: left;
+    }
+    .fz-mediaBlock-body {
+      overflow: hidden;
+    }
+    &.fz-mediaBlock--reverse {
+      .fz-mediaBlock-image {
+        float: right;
+      }
     }
   }
 }
